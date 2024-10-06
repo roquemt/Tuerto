@@ -1,9 +1,11 @@
 # Tuerto
 Obstacle avoider robot controled with a FSM 
 
-Bottom view
-![SteYe_BOTTOM](https://github.com/user-attachments/assets/f6e3ce0d-da8f-4e64-bc81-6950cbf2006c)
-
 Top view
-![SteYe_TOP](https://github.com/user-attachments/assets/753ee6e4-f605-4c0a-8199-2de194ffbe52)
+![Top view](https://github.com/user-attachments/assets/198a19b0-11f9-4f9d-85e0-4b324554c838)
+
+
+Bottom view
+![Bottom view](https://github.com/user-attachments/assets/22ec942b-6dd6-476e-9555-19cb29027465)
+
 
